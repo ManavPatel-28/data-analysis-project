@@ -50,9 +50,13 @@ Each project demonstrates data cleaning, preprocessing, and visualization techni
 
 
 👨‍🎓 University Project
+
+
          Developed as part of coursework at Rutgers University.
 
 👨‍💻 Author
+
+
          Manav Sachin Patel
                LinkedIn
                GitHub

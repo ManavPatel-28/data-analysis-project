@@ -35,5 +35,25 @@ Each project demonstrates data cleaning, preprocessing, and visualization techni
 ## ▶️ How to Run
 1. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   
+2.Install dependencies:
+      pip install -r requirements.txt
+
+3.Launch Jupyter Notebook:
+      jupyter notebook      
+
+4. Open and run the notebooks:
+      - EU_Cities.ipynb
+      - German_Credit.ipynb
+      - Google_Playstore.ipynb
+  
+
+
+👨‍🎓 University Project
+         Developed as part of coursework at Rutgers University.
+
+👨‍💻 Author
+         Manav Sachin Patel
+               LinkedIn
+               GitHub
 

@@ -46,11 +46,8 @@ Each project demonstrates data cleaning, preprocessing, and visualization techni
       - EU_Cities.ipynb
       - German_Credit.ipynb
       - Google_Playstore.ipynb
-  
 
-
-## 👨‍🎓 University Project
-This project was developed as part of the course at Rutgers University.  
+   ---
 
 ## 👨‍💻 Author
 **Manav Sachin Patel**  
